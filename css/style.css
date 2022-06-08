@@ -1,0 +1,11 @@
+.contenedor {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.imagen {
+  width: 300px;
+  border-radius: 10px;
+}
